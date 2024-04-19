@@ -69,7 +69,7 @@ This repository currently supports Window.
   ``` bash
     pip install pygame
     ```
-* You can see "How to install Django on Windows" in [Pygame](https://www.geeksforgeeks.org/how-to-install-pygame-in-windows/)
+* You can see "How to install Pygame on Windows" in [Pygame](https://www.geeksforgeeks.org/how-to-install-pygame-in-windows/)
 
 ### Installation
 1. Clone the repository to local computer
